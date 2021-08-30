@@ -1,3 +1,5 @@
+//using React Context API instead of Redux
+
 import React, { createContext, useContext, useReducer } from "react";
 
 // Prepares the dataLayer
